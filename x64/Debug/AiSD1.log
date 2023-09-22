@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\HONOR\OneDrive\Desktop\Лэти\ООП\Лабы\Лаб4\AiSD1\AiSD1\Source.cpp(21,10): warning C4101: Temp: неиспользованная локальная переменная
+C:\Users\HONOR\OneDrive\Desktop\Лэти\ООП\Лабы\Лаб4\AiSD1\AiSD1\Source.cpp(23,7): warning C4101: c: неиспользованная локальная переменная
+  AiSD1.vcxproj -> C:\Users\HONOR\OneDrive\Desktop\Лэти\ООП\Лабы\Лаб4\AiSD1\x64\Debug\AiSD1.exe
